@@ -47,4 +47,4 @@ jobs:
           FASTLANE_KEY_ID: ${{ secrets.FASTLANE_KEY_ID }}
           FASTLANE_ISSUER_ID: ${{ secrets.FASTLANE_ISSUER_ID }}
           FASTLANE_KEY: ${{ secrets.FASTLANE_KEY }}
-          FASTLANE_PLATFORM: ${{ secrets.FASTLANE_PLATFORM }}
+          FASTLANE_PLATFORM_NAME: ${{ secrets.FASTLANE_PLATFORM }}
